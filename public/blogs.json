@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/bF2zTD8/1.jpg",
+        "title": "Fantastic Voyage",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/3CtGvtH/Ellipse-1.png",
+        "posted_date": "2023-09-12",
+        "reading_times": 20,
+        "hash-tags": ["sciencefiction", "adventure", "bestseller"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/CHTFhxp/2.png",
+        "title": "Mysteries of the Deep",
+        "author": "David Williams",
+        "author_img": "https://i.ibb.co/0GmyZ9q/Ellipse-1-2.png",
+        "posted_date": "2023-09-11",
+        "reading_times": 9,
+        "hash-tags": ["mystery", "exploration", "newrelease"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/Z2TZXnD/4.jpg",
+        "title": "The Secret Garden",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/3CtGvtH/Ellipse-1.png",
+        "posted_date": "2023-09-10",
+        "reading_times": 15,
+        "hash-tags": ["fiction", "classic", "mustread"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/CHTFhxp/2.png",
+        "title": "Space Odyssey",
+        "author": "Michael Turner",
+        "author_img": "https://i.ibb.co/0GmyZ9q/Ellipse-1-2.png",
+        "posted_date": "2023-09-09",
+        "reading_times": 18,
+        "hash-tags": ["space", "science", "epic"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/6WcVjT6/3.png",
+        "title": "The Enchanted Forest",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co/hWNtLMD/Ellipse-1-1.png",
+        "posted_date": "2023-09-08",
+        "reading_times": 11,
+        "hash-tags": ["fantasy", "magic", "journey"]
+    }
+]
